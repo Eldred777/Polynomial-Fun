@@ -1,0 +1,12 @@
+[ ] polynomial 
+[ ] adding and multiplying polynomials (simplification)
+[ ] print out polynomials nicely 
+[ ] integrate and differentiate polynomials
+[ ] evaluate polynoamials 
+[ ] cubic spline on data 
+[ ] numerical integration on data 
+[ ] numerical integration of function based on above 
+[ ] general numerical integration of data/functions?
+[ ] implement in other languages e.g. common lisp 
+[ ] call haskell model via C++ code (i.e. write a C++ library in haskell, basically)???
+
